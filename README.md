@@ -4,6 +4,16 @@
 将整体任务分拆以下小任务来完成：
 ## 1. Hello World API
 
+使用Web框架——Grape
+
+Grape作为一个轻量级的API框架，相比其他框架而言，其主要优势在于：
+- 符合REST风格
+- 轻量级，能够运行在Rack服务器上。
+- 文档友好，使用DSL简化了API的开发。
+- 简洁版本控制、路由管理以及接口参数管理。
+
+> 关于Grape信息，请参考其官方文档 http://intridea.github.io/grape
+
 ## 2. 代码测试与静态检查
 
 ## 3. 构建Docker映像

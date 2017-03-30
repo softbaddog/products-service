@@ -1,32 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/fuwei/workspace/products-service/spec/api_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        2,
-        null,
-        null,
-        1,
-        1,
-        2,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null
-      ]
     },
-    "timestamp": 1490841627
+    "timestamp": 1490855564
   }
 }
